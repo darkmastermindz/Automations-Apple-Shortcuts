@@ -1,6 +1,6 @@
 # Automations-Apple-Shortcuts
 
-Created with ❤️ by Hansel
+Created with ❤️ by [Hansel](hansel.run)
 
 Description:
 - Here's my list of shortcuts I use :)
