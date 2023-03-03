@@ -20,7 +20,7 @@ Why these Shortcuts?
 - Comments:
   - Only works on iPhone
   - Assumes user has setup 2FA in app
-
+  - Assumes user has only 1 token in app
 
 ✨[Shortcut: Get SoftToken](https://www.icloud.com/shortcuts/c1e21a55fcf84f6fa87aa8604ba4b9c1)
 - Description:
