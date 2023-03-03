@@ -42,4 +42,4 @@ alt="How to use Back Tap on iPhone | Apple Support" width="240" height="180" bor
   - On macOS, requires user click on app launched for screenshot
   - Assumes user has setup 2FA in app
 
-# Screenshots Management
+## Screenshots Management
