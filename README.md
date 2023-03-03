@@ -10,7 +10,7 @@ Why these Shortcuts?
 
 ## 2FA Retrieval
 
-RSA™ SecurID™:
+**RSA™ SecurID™**
 
 ✨[Shortcut: Get SecurID™ Token](https://www.icloud.com/shortcuts/8a8df52d0e934ee4bd6a30270dca4579)
 - Description:
