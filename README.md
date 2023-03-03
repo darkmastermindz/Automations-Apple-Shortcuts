@@ -16,6 +16,7 @@ RSA™ SecurID™:
 - Retrieves 8 digit 2FA token and puts it on the clipboard automactically then closes the app
 - Comments:
   - Only works on iPhone
+  - Assumes user has setup 2FA in app
 - Required Apps:
   - https://apps.apple.com/us/app/securid/id318038618
 
@@ -23,5 +24,7 @@ RSA™ SecurID™:
 - Retrieves 8 digit 2FA token and puts it on the clipboard automactically then closes the app
 - Comments:
   - Works everywhere, so preferred
+  - On macOS, requires user click on app launched for screenshot
+  - Assumes user has setup 2FA in app
 - Required Apps: 
   - https://apps.apple.com/us/app/softtoken/id1556128361
