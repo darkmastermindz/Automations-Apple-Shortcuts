@@ -1,5 +1,8 @@
 # Automations-Apple-Shortcuts
 
+Made with ❤ by Hansel
+
+
 Description:
 - Here's my list of shortcuts I use :)
 
@@ -20,4 +23,3 @@ RSA™ SecurID™:
 - https://apps.apple.com/us/app/softtoken/id1556128361
 
 
-Made with ❤️ by Hansel
