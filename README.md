@@ -1,5 +1,6 @@
 # Automations-Apple-Shortcuts
 
+Description:
 - Here's my list of shortcuts I use :)
 
 Why these Shortcuts?
@@ -17,3 +18,6 @@ RSA™ SecurID™:
 - Retrieves 8 digit 2FA token and puts it on the clipboard automactically then closes the app
 - Works everywhere, so preferred
 - https://apps.apple.com/us/app/softtoken/id1556128361
+
+
+Made with ❤️ by Hansel
