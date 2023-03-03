@@ -3,7 +3,9 @@
 Created with ❤️ by [Hansel](hansel.run)
 
 Description:
-- Here's my list of shortcuts I use :)
+- Here's my list of shortcuts I use seperated by categories :)
+  - [2FA Retrieval](README.md#2fa-retrieval)
+  - [Screenshots Management](README.md#screenshots-management)
 
 Why these Shortcuts?
 - Over time it helps you create a more personalized Siri assistant
@@ -39,3 +41,5 @@ alt="How to use Back Tap on iPhone | Apple Support" width="240" height="180" bor
   - Works everywhere, so preferred
   - On macOS, requires user click on app launched for screenshot
   - Assumes user has setup 2FA in app
+
+# Screenshots Management
