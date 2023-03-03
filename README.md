@@ -3,6 +3,7 @@
 ## 2FA
 
 RSA™ SecurID™:
+
 ✨🔗[Get SecurID™ Token](https://www.icloud.com/shortcuts/8a8df52d0e934ee4bd6a30270dca4579)
 - Retrieves 8 digit 2FA token and puts it on the clipboard automactically then closes the app
 - Only works on iPhone
