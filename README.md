@@ -1,6 +1,6 @@
 # Automations-Apple-Shortcuts
 
-Here's my list of shortcuts I use :)
+- Here's my list of shortcuts I use :)
 
 Why these Shortcuts?
 - Backtap: Shortcuts can pair with Backtap allow you to quickly do multiple repetitive tasks on iPhone all in one go
