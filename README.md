@@ -6,7 +6,12 @@ Description:
 - Here's my list of shortcuts I use :)
 
 Why these Shortcuts?
-- Backtap: Shortcuts can pair with Backtap allow you to quickly do multiple repetitive tasks on iPhone all in one go
+- Over time it helps you create a more personalized Siri assistant
+- On macOS, it can be made available on the menu bar (see: https://discussions.apple.com/thread/253609326)
+- (Backtap iPhone Feature)(https://support.apple.com/en-gb/HT211781): 
+  - Shortcuts can pair with Backtap allow you to quickly do multiple repetitive tasks on iPhone all in one go
+  - [How to use Back Tap on iPhone | Apple Support]!(https://www.youtube.com/watch?v=IMbd0dTvr0I)
+
 
 ## 2FA Retrieval
 
